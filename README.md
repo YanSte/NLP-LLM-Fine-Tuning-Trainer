@@ -1,4 +1,4 @@
-# | NLP | LLM | Fine-tuning | Trainer |
+# | NLP | LLM | Fine-Tuning | Trainer |
 
 ## Natural Language Processing (NLP) and Large Language Models (LLM) with Fine-Tuning LLM and Trainer
 
